@@ -1,11 +1,9 @@
 # Getting Started with Create React App
 
 
-![CI/CD](https://github.com/shemalucien/weekend-project-1/actions/workflows/CI/CD/badge.svg)
-[![Codecov](https://img.shields.io/codecov/c/github/dyarleniber/react-workflow-gh-actions)](https://app.codecov.io/gh/shemalucien/weekend-project-1)
+[![codecov](https://shemalucien.github.io/weekend-project-1/branch/master/graph/badge.svg)](https://shemalucien.github.io/weekend-project-1)
 
-![License](https://img.shields.io/github/license/dyarleniber/react-workflow-gh-actions)
-
+[![Codecov](https://img.shields.io/codecov/c/github/shemalucien/weekend-project-1)](https://shemalucien.github.io/weekend-project-1)
 
 
 
