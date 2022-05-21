@@ -1,13 +1,9 @@
 # Getting Started with Create React App
 
 
-[![Codecov](https://shemalucien.github.io/weekend-project-1/branch/master/graph/badge.svg)](https://shemalucien.github.io/weekend-project-1)
 
-[![Codecov](https://img.shields.io/codecov/c/github/shemalucien/weekend-project-1)](https://shemalucien.github.io/weekend-project-1)
-
-
-
-
+![Codecov]https://github.com/shemalucien/weekend-project-1/workflows/CI/CD/badge.svg
+![Codecov](https://img.shields.io/codecov/c/github/shemalucien/weekend-project-1)
 ![License](https://img.shields.io/github/license/shemalucien/weekend-project-1)
 
 
