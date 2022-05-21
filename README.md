@@ -1,5 +1,18 @@
 # Getting Started with Create React App
 
+
+![CI/CD](https://github.com/shemalucien/weekend-project-1/actions/workflows/CI/CD/badge.svg)
+[![Codecov](https://img.shields.io/codecov/c/github/dyarleniber/react-workflow-gh-actions)](https://app.codecov.io/gh/shemalucien/weekend-project-1)
+
+![License](https://img.shields.io/github/license/dyarleniber/react-workflow-gh-actions)
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
