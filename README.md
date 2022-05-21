@@ -2,9 +2,9 @@
 
 
 
-![Codecov]https://github.com/shemalucien/weekend-project-1/workflows/CI/CD/badge.svg
+![Codecov](https://github.com/shemalucien/weekend-project-1/workflows/CI/CD/badge.svg)
 ![Codecov](https://img.shields.io/codecov/c/github/shemalucien/weekend-project-1)
-![License](https://img.shields.io/github/license/shemalucien/weekend-project-1)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
